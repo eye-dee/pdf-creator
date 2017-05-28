@@ -1,4 +1,4 @@
-package apache.pdfbox;
+package pdf.apache.pdfbox;
 
 
 import org.apache.pdfbox.pdmodel.PDDocument;
